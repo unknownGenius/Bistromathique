@@ -1,0 +1,3 @@
+# Bistromathique
+Bistromathique project for school
+first steps of code for my Bistromatique project in school...
